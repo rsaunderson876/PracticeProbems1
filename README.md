@@ -1,3 +1,5 @@
+Problem Description:
+
 The ABC Hardware Company has hired you to program its Accounts Receivable department. (A/R are accounts that owe money to the company for purchases from the company)
 
 There are two types of input data
